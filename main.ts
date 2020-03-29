@@ -57,4 +57,3 @@ basic.forever(function () {
         codedLetter = ""
     }
 })
- 
